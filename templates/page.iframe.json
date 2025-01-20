@@ -19,7 +19,7 @@
     "custom_liquid_iCJXmi": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div style=\"height:620px;width:100%;display:block;\">\n\n<iframe src=\"https://2cd713c4-dc5f-4df0-bb27-c8735775d696-00-1nagvhl4wsl07.janeway.replit.dev\" title=\"Iframe Example\"></iframe>\n</div>",
+        "custom_liquid": "<div align=\"center\" style=\"height:620px;width:100%;display:block;\">\n<iframe align=\"center\" src=\"https://2cd713c4-dc5f-4df0-bb27-c8735775d696-00-1nagvhl4wsl07.janeway.replit.dev\" title=\"Iframe\" style=\"height:620px;\"></iframe>\n</div>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
